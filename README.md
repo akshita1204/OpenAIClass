@@ -37,9 +37,3 @@ This project demonstrates **prompt engineering**, **temperature control**, and *
 
 ---
 
-## ▶️ How to Run
-
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/akshita1204/OpenAIClass.git
-cd OpenAIClass
